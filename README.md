@@ -1,3 +1,5 @@
+![Python application test with Github Actions](https://github.com/StavrosD/Udacity-AzureDevOps-BuildingA_CI-CD_Pipeline/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
+
 # Overview
 
 <TODO: complete this with an overview of your project>
