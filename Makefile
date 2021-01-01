@@ -1,11 +1,12 @@
 setup:
 	python3 -m venv ~/.udacity-devops
+	source ~/.udacity-devops/bin/activate
 
 install:
 	pip install --upgrade pip &&\
 		pip install -r requirements.txt
 
-inastall_locust:
+install_locust:
 	pip install locust
 
 test:
@@ -21,4 +22,4 @@ lint:
 	pip install pylint
 	pylint --disable=R,C,W1203 app.py
 
-all: install inastall_locust lint test
+all: install install_locust lint test
