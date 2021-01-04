@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Δημιουργήθηκε από το Microsoft Visio, SVG Export devops_architecture.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="5.82677in"
+		viewBox="0 0 595.276 419.528" xml:space="preserve" color-interpolation-filters="sRGB" class="st37">
+	<v:documentProperties v:langID="1033" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-6);stroke:none;stroke-width:34}
+		.st2 {fill:#ffffff;fill-opacity:0.8;stroke:none;stroke-width:34}
+		.st3 {fill:url(#grad0-12);stroke:none;stroke-width:34}
+		.st4 {fill:#000000;font-family:Calibri;font-size:1.00001em}
+		.st5 {fill:none;stroke:none;stroke-width:0.25}
+		.st6 {fill:#0c0c0c;font-family:Calibri;font-size:1.00001em}
+		.st7 {font-size:1em}
+		.st8 {fill:#1b1f23;stroke:none;stroke-linecap:butt;stroke-width:48}
+		.st9 {fill:#0078d4;stroke:none;stroke-width:15.3}
+		.st10 {fill:url(#grad3-43);stroke:none;stroke-width:34}
+		.st11 {fill:#ffffff;stroke:none;stroke-width:34}
+		.st12 {fill:url(#grad7-49);stroke:none;stroke-width:34}
+		.st13 {fill:#ff9300;fill-opacity:0.75;stroke:none;stroke-width:34}
+		.st14 {fill:url(#grad7-63)}
+		.st15 {stroke:none;stroke-width:34}
+		.st16 {fill:#83b9f9;stroke:none;stroke-width:34}
+		.st17 {fill:url(#grad0-70);stroke:none;stroke-width:34}
+		.st18 {fill:none;stroke:none;stroke-width:34}
+		.st19 {fill:#f2f2f2;stroke:none;stroke-width:34}
+		.st20 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st21 {fill:#0079bf;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st22 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st23 {fill:#949494;stroke:none;stroke-width:34}
+		.st24 {fill:#a3a3a3;stroke:none;stroke-width:34}
+		.st25 {fill:#32bedd;stroke:none;stroke-width:34}
+		.st26 {fill:#9cebff;stroke:none;stroke-width:34}
+		.st27 {fill:#50e6ff;stroke:none;stroke-width:34}
+		.st28 {fill:url(#grad0-130);stroke:none;stroke-width:34}
+		.st29 {fill:#f04049;stroke:none;stroke-width:34}
+		.st30 {fill:url(#grad7-144);stroke:none;stroke-width:34}
+		.st31 {marker-end:url(#mrkr4-153);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st32 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.18796992481203}
+		.st33 {marker-end:url(#mrkr4-153);marker-start:url(#mrkr4-170);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st34 {fill:url(#grad0-202);stroke:none;stroke-width:34}
+		.st35 {fill:#37c2b1;stroke:none;stroke-width:34}
+		.st36 {fill:#258277;stroke:none;stroke-width:34}
+		.st37 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-6" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0.22" stop-color="#32d4f5" stop-opacity="1"/>
+			<stop offset="1" stop-color="#198ab3" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-12" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(85.405746668733 0.5 0.5)">
+			<stop offset="0.22" stop-color="#32d4f5" stop-opacity="1"/>
+			<stop offset="1" stop-color="#198ab3" stop-opacity="1"/>
+		</linearGradient>
+		<radialGradient id="grad3-43" cx="0.5" cy="0.5" r="0.73">
+			<stop offset="0.18" stop-color="#5ea0ef" stop-opacity="1"/>
+			<stop offset="0.56" stop-color="#5c9fee" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#559ced" stop-opacity="1"/>
+			<stop offset="0.78" stop-color="#4a97e9" stop-opacity="1"/>
+			<stop offset="0.86" stop-color="#3990e4" stop-opacity="1"/>
+			<stop offset="0.93" stop-color="#2387de" stop-opacity="1"/>
+			<stop offset="0.99" stop-color="#087bd6" stop-opacity="1"/>
+			<stop offset="1" stop-color="#0078d4" stop-opacity="1"/>
+		</radialGradient>
+		<radialGradient id="grad7-49" cx="0" cy="0" r="1.4">
+			<stop offset="0.27" stop-color="#ffd70f" stop-opacity="1"/>
+			<stop offset="0.49" stop-color="#ffcb12" stop-opacity="1"/>
+			<stop offset="0.88" stop-color="#feac19" stop-opacity="1"/>
+			<stop offset="1" stop-color="#fea11b" stop-opacity="1"/>
+		</radialGradient>
+		<radialGradient id="grad7-63" cx="0" cy="0" r="1.4">
+			<stop offset="0.185" stop-color="#5ea0ef" stop-opacity="1"/>
+			<stop offset="1" stop-color="#0078d4" stop-opacity="1"/>
+		</radialGradient>
+		<linearGradient id="grad0-70" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-90.44863169121 0.5 0.5)">
+			<stop offset="0" stop-color="#cccccc" stop-opacity="1"/>
+			<stop offset="0.125" stop-color="#d7d7d7" stop-opacity="1"/>
+			<stop offset="0.42" stop-color="#ebebeb" stop-opacity="1"/>
+			<stop offset="0.715" stop-color="#f8f8f8" stop-opacity="1"/>
+			<stop offset="1" stop-color="#fcfcfc" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-130" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(0 0.5 0.5)">
+			<stop offset="0.18" stop-color="#5ea0ef" stop-opacity="1"/>
+			<stop offset="0.56" stop-color="#5c9fee" stop-opacity="1"/>
+			<stop offset="0.69" stop-color="#559ced" stop-opacity="1"/>
+			<stop offset="0.78" stop-color="#4a97e9" stop-opacity="1"/>
+			<stop offset="0.86" stop-color="#3990e4" stop-opacity="1"/>
+			<stop offset="0.93" stop-color="#2387de" stop-opacity="1"/>
+			<stop offset="0.99" stop-color="#087bd6" stop-opacity="1"/>
+			<stop offset="1" stop-color="#0078d4" stop-opacity="1"/>
+		</linearGradient>
+		<radialGradient id="grad7-144" cx="0" cy="0" r="1.4">
+			<stop offset="0.19" stop-color="#8c8e90" stop-opacity="1"/>
+			<stop offset="0.35" stop-color="#848688" stop-opacity="1"/>
+			<stop offset="0.6" stop-color="#6e7071" stop-opacity="1"/>
+			<stop offset="0.91" stop-color="#4a4b4c" stop-opacity="1"/>
+			<stop offset="1" stop-color="#3e3f3f" stop-opacity="1"/>
+		</radialGradient>
+		<linearGradient id="grad0-202" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(-90 0.5 0.5)">
+			<stop offset="0" stop-color="#b3b3b3" stop-opacity="1"/>
+			<stop offset="0.26" stop-color="#c1c1c1" stop-opacity="1"/>
+			<stop offset="1" stop-color="#e6e6e6" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-153" class="st32" v:arrowType="4" v:arrowSize="3" v:setback="10.64" refX="-10.64" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-5.32,-5.32) "/>
+		</marker>
+		<marker id="mrkr4-170" class="st32" v:arrowType="4" v:arrowSize="3" v:setback="10.16" refX="10.16" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(5.32) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Σελίδα-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<v:layer v:name="Γραμμή σύνδεσης" v:index="0"/>
+		<v:layer v:name="Διάγραμμα ροής" v:index="1"/>
+		<g id="group30-1" transform="translate(49.552,-251.669)" v:mID="30" v:groupContext="group">
+			<title>User</title>
+			<desc>Developer</desc>
+			<g id="group31-2" v:mID="31" v:groupContext="group">
+				<title>Icon-identity-230</title>
+				<g id="shape32-3" v:mID="32" v:groupContext="shape">
+					<title>Φύλλο.32</title>
+					<path d="M39.64 419.53 A3.86019 3.86019 -180 0 0 43.5 415.67 A1.25124 1.25124 -180 0 0 43.5 415.21 C41.96 403.05
+								 35.06 393.15 21.75 393.15 C8.44 393.15 1.36 401.53 0 415.24 A3.88682 3.88682 -180 0 0 3.49 419.53
+								 L39.64 419.53 Z" class="st1"/>
+				</g>
+				<g id="shape33-7" v:mID="33" v:groupContext="shape" transform="translate(15.1479,-8.35932)">
+					<title>Φύλλο.33</title>
+					<path d="M6.6 404.38 A12.2195 12.2195 0 0 1 -0 402.44 L6.6 419.53 L13.1 402.54 A12.0598 12.0598 0 0 1 6.6 404.38
+								 Z" class="st2"/>
+				</g>
+				<g id="shape34-9" v:mID="34" v:groupContext="shape" transform="translate(9.58393,-23.5339)">
+					<title>Φύλλο.34</title>
+					<ellipse cx="12.1929" cy="407.335" rx="12.1929" ry="12.1929" class="st3"/>
+				</g>
+			</g>
+			<g id="shape30-13" v:mID="30" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="21.5482" cy="419.528" width="78.34" height="0"/>
+				<text x="-3.59" y="430.33" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Developer</text>			</g>
+		</g>
+		<g id="shape35-15" v:mID="35" v:groupContext="shape" transform="translate(123.43,-251.003)">
+			<title>Visual Studio Code</title>
+			<desc>Visual Studio Code</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="24.849" cy="436.023" width="47.92" height="29.7715"/>
+			<rect v:rectContext="foreign" x="0" y="371.608" width="47.9197" height="47.9197" class="st5"/>
+			<switch>
+				<foreignObject x="0" y="371.608" width="47.9197" height="47.9197"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:orgSize="852" v:data="data:metafile;base64,eNpdU00vA1EUPaNoKyWlVJMm0qSERdvMTPULrUiQiFjxB6qG
+								VD8zJEaE1MraxsKvsfcHuiDiD/gDFpxn3php7+TM3HPnvPvuu3dGAfAG15YmbDh2M2cjsXOwCyg48gHLjI8QBaIpde8M3maB
+								Pv15BQP2su9Df2sUe2ijgQvUUEUXBhJQkUEJOu8qmQkNObISL6A+pE7TazLaxTE6jJk4YcyAxUiH7JJZDLRw+r/vNBGCqBpY
+								lAB6m25lri/OwwMiRSSIw5ppGO2ypupqztKyWlHrWqmEruUtvVBqtf60KpEkts3qVb19VtbVfCZr6WohowtxbjWTt3grUo4Z
+								Ty0R6Ys9o9KPSYRkPbPSn4Td75hcK0y5fsW4mJUn5zoRIOJEmHjinLIU5SUXM0kGXC7s2T/IH0ZcHqX+W3H5I/N9+Vx+57fX
+								ODzCbyaoDPJI0OX31C8wVh6qs8H4p6dOwSuefcJjNhx+LvXDedLce82Tp86zxD3rxPsP3yAvefJsyGdF9tqxH2lOr5myt+Lp
+								+5SclWPi//gF2nJOxQ=="/>
+				</foreignObject>
+				<svg viewBox="0 0 2598 2597.9" enable-background="new" color-interpolation-filters="sRGB" height="47.9197"
+						preserveAspectRatio="none" width="47.9197" x="0" y="371.608">
+					<defs>
+						<clipPath id="mfid34">
+							<rect id="mfid35" x="0" y="0" width="2598" height="2597.9"/>
+						</clipPath>
+					</defs>
+					<g clip-path="url(#mfid34)">
+						<defs>
+							<g id="mfid36">
+								<path
+										d="M918,1587 L279,2083 L0,1946 L0,647 L278,507 L913,1006 L1918,0 L2579,265 L2579,2323 L1921,2590 Z M1899,1761 L1899,830 L1296,1296 L1898,1761 Z M301,1594 L617,1307 L301,991 L301,1593 Z"/>
+							</g>
+						</defs>
+						<g stroke="#000000" stroke-miterlimit="10" fill="#0179cb">
+							<use xlink:href="#mfid36" stroke="none"/>
+						</g>
+					</g>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="371.608" width="47.9197" height="47.9197" class="st5"/>
+			<text x="10.32" y="435.94" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Visual <tspan
+						x="9.24" dy="1.2em" class="st7">Studio </tspan><tspan x="12.35" dy="1.2em" class="st7">Code</tspan></text>		</g>
+		<g id="group36-21" transform="translate(314.964,-248.267)" v:mID="36" v:groupContext="group">
+			<title>Φύλλο.36</title>
+			<desc>GitHub</desc>
+			<g id="shape37-22" v:mID="37" v:groupContext="shape">
+				<title>Φύλλο.37</title>
+				<path d="M24.46 371.61 C10.95 371.61 0 382.56 0 396.07 C0 406.9 7 416.04 16.73 419.28 C17.95 419.5 18.41 418.76 18.41
+							 418.12 C18.41 417.54 18.38 415.61 18.38 413.56 C12.23 414.7 10.64 412.07 10.15 410.69 C9.88 409.99 8.68
+							 407.82 7.65 407.23 C6.79 406.78 5.57 405.64 7.61 405.61 C9.54 405.58 10.92 407.39 11.38 408.12 C13.58
+							 411.82 17.09 410.78 18.5 410.14 C18.72 408.55 19.36 407.48 20.06 406.87 C14.62 406.26 8.93 404.15 8.93
+							 394.79 C8.93 392.13 9.88 389.93 11.44 388.21 C11.19 387.6 10.34 385.09 11.68 381.73 C11.68 381.73 13.73
+							 381.09 18.41 384.24 C20.37 383.69 22.45 383.41 24.53 383.41 C26.61 383.41 28.68 383.69 30.64 384.24
+							 C35.32 381.06 37.37 381.73 37.37 381.73 C38.71 385.09 37.86 387.6 37.61 388.21 C39.17 389.93 40.12 392.1
+							 40.12 394.79 C40.12 404.18 34.4 406.26 28.96 406.87 C29.85 407.63 30.61 409.1 30.61 411.39 C30.61 414.67
+							 30.58 417.3 30.58 418.12 C30.58 418.76 31.04 419.53 32.26 419.28 C41.93 416.04 48.93 406.87 48.93 396.07
+							 C48.93 382.56 37.98 371.61 24.46 371.61 Z" class="st8"/>
+			</g>
+			<g id="shape36-24" v:mID="36" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="24.4644" cy="395.568" width="48.93" height="47.9197"/>
+				<text x="7.25" y="442.37" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/>GitHub</text>			</g>
+		</g>
+		<g id="shape40-26" v:mID="40" v:groupContext="shape" transform="translate(424.412,-253.255)">
+			<title>Azure Pipelines</title>
+			<desc>Azure Pipelines</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="23.1666" cy="419.528" width="75.1" height="0"/>
+			<rect v:rectContext="foreign" x="0" y="373.194" width="46.3331" height="46.3331" class="st5"/>
+			<switch>
+				<foreignObject x="0" y="373.194" width="46.3331" height="46.3331"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:orgSize="2356" v:data="data:metafile;base64,eNqtVk1oE1EQnk2jVmyLWlGxqBF/WiEJ2STND20UQcVYeqj
+								WH5AeYow1NUlDFLqXQm6K4EksIoigV70oXmwPDaInwWsRchOEHtLiQUEQ/aY7231EzPOQgW/nZ783M2/ey7YGQQxal5zHhiO
+								9G2z4To2eZmJ0M9Ek4kxJAwXh1fuJZiNES7B3KflYFkc6aOmEF/wS3aRblKUMlSlHPgpRkJIUxjMKb4AG6RrexSiBaJYiZAJ
+								+vAmDaSIWWNMBIEpHkTnflDEAq4Boma7SNGIV5AsgbiEyDe82KuWoSNfXe9sGdMkIDgmIqsfd7l2b94whoCPMAzifreRypZQ
+								ZCocGLTNiJsyy5feFzZgVjieLxTVuCDgAnKxkZvKlyVQ0HkxaeCSYaoaDcYsfIEO2K730is01d4q9W9Al/ewQuxvol3fO6A9
+								O1Ggj9GEl5xDQCfQBW4FPgBcFYuL7QLqg+M/Fx/Fj3q78FumA/Vo4i9BnRCeUHOx3Gq7PNX8arXN+BH4ZtvZ43D5T0v+w6GO
+								y5+Yczp5Rozqg7L95RkOlD9oZsbwit3+WmLKfMeCOZj/jwD1wLou+ImucHKOwHyo19pLtt8rZLRyWZ0qf7Z7RxP0v2hmZCO5
+								X+ufLnNbMhL8h4+DcgM5Al6GnlJk0gK+aHN+BFXC8wCrQAywrOfgeHtHkGAFnDziX+J6Lbih7YX+f5iyYw+dxVr6bSdFOjrw
+								Ms1WOc8JJGfacnZm2+zyfzq/+dZ6OjfxV5742598k3z2/x9bvJKGjLyI+p2iHx/p/e3v5/pv2rtUQrGtmuSycLai9IPqBZg1
+								zpmRtWuqkNWseCWfGsNey1tVhzoKsrSv7afc5Fx43tLMcRvCHck+fAHPK76cGvFV8/p32Ge3v9e6LFW2v/I373NTbvPHv3me
+								BN23otUf+zjrC///8AbIjOWs="/>
+				</foreignObject>
+				<svg viewBox="0 0 613.72 613.7" enable-background="new" color-interpolation-filters="sRGB" height="46.3331"
+						preserveAspectRatio="none" width="46.3331" x="0" y="373.194">
+					<defs>
+						<clipPath id="mfid37">
+							<rect id="mfid38" x="0" y="0" width="613.72" height="613.7"/>
+						</clipPath>
+					</defs>
+					<g clip-path="url(#mfid37)">
+						<defs>
+							<g id="mfid39">
+								<path
+										d="M207,516 L288,597 L419,597 C435,597 448,584 448,568 L448,264 L207,506 C204,509 204,514 207,516 Z"/>
+							</g>
+						</defs>
+						<g stroke="#000000" stroke-miterlimit="10" fill="#235dc1">
+							<use xlink:href="#mfid39" stroke="none"/>
+						</g>
+						<defs>
+							<g id="mfid40">
+								<path d="M0,178 L0,310 L81,391 C84,394 88,394 91,391 L333,149 L29,149 C13,149 0,162 0,178 Z"/>
+							</g>
+						</defs>
+						<g stroke="#000000" stroke-miterlimit="10" fill="#3b6ec6">
+							<use xlink:href="#mfid40" stroke="none"/>
+						</g>
+						<defs>
+							<g id="mfid41">
+								<path
+										d="M305,31 L109,329 C103,340 104,353 112,362 L238,487 C246,495 260,496 270,490 L568,294 C587,282 599,261 599,238 L599,30 C599,13 586,0 569,0 L361,0 C338,0 317,12 305,31 Z"/>
+							</g>
+						</defs>
+						<g stroke="#000000" stroke-miterlimit="10" fill="#5d8de4">
+							<use xlink:href="#mfid41" stroke="none"/>
+						</g>
+						<g stroke-width="9.9343" stroke="none" fill="#9fbbf0">
+							<polygon points="44,556 44,451 0,451 0,598 150,598 150,556 44,556"/>
+						</g>
+						<defs>
+							<g id="mfid42">
+								<path
+										d="M449,221 C490,221 523,188 523,147 C523,106 490,73 449,73 C408,73 375,106 375,147 C375,188 408,221 449,221 Z"/>
+							</g>
+						</defs>
+						<g stroke-width="9.9343" stroke="none" fill="#adc5f2">
+							<use xlink:href="#mfid42" stroke="none"/>
+						</g>
+						<defs>
+							<g id="mfid43">
+								<path d="M316,247 L157,406 L193,442 L353,283 Z"/>
+							</g>
+						</defs>
+						<g stroke-width="9.9343" stroke="none" fill="#6c9aee">
+							<use xlink:href="#mfid43" stroke="none"/>
+						</g>
+						<defs>
+							<g id="mfid44">
+								<path d="M162,474 L193,443 L157,406 L125,437 Z"/>
+							</g>
+						</defs>
+						<g stroke-width="9.9343" stroke="none" fill="#88acef">
+							<use xlink:href="#mfid44" stroke="none"/>
+						</g>
+					</g>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="373.194" width="46.3331" height="46.3331" class="st5"/>
+			<text x="9.1" y="434.33" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Azure <tspan x="1.31"
+						dy="1.2em" class="st7">Pipelines</tspan></text>		</g>
+		<g id="group41-31" transform="translate(205.035,-190.14)" v:mID="41" v:groupContext="group">
+			<title>DevOps Projects</title>
+			<desc>Development Loop</desc>
+			<g id="group42-32" v:mID="42" v:groupContext="group">
+				<title>Φύλλο.42</title>
+				<g id="shape43-33" v:mID="43" v:groupContext="shape">
+					<title>Φύλλο.43</title>
+					<path d="M65.12 366.35 L65.12 406.14 L48.66 419.53 L23.33 410.3 L23.33 419.53 L9.22 400.9 L51.01 404.15 L51.01
+								 368.34 L65.12 366.35 ZM51.19 368.34 L27.86 354.41 L27.86 363.64 L6.33 369.97 L0 378.29 L0 397.1
+								 L9.22 401.08 L9.22 377.02 L51.19 368.34 Z" class="st9"/>
+				</g>
+			</g>
+			<g id="shape41-35" v:mID="41" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="27.0283" cy="447.106" width="70.79" height="55.205"/>
+				<text x="-5.98" y="430.3" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Development <tspan
+							x="15.03" dy="1.2em" class="st7">Loop</tspan></text>			</g>
+		</g>
+		<g id="group45-38" transform="translate(516.822,-255.128)" v:mID="45" v:groupContext="group">
+			<title>Key Vaults</title>
+			<desc>Key Vault</desc>
+			<g id="group46-39" v:mID="46" v:groupContext="group">
+				<title>Φύλλο.46</title>
+				<g id="shape47-40" v:mID="47" v:groupContext="shape" transform="translate(3.65311,-1.81385)">
+					<title>Φύλλο.47</title>
+					<path d="M16.51 376.01 A23.3541 23.3541 -180 1 0 39.87 399.36 A23.3816 23.3816 -180 0 0 16.51 376.01 ZM16.51
+								 419.53 A20.1669 20.1669 0 1 1 36.68 399.36 A20.1669 20.1669 0 0 1 16.51 419.53 Z" class="st10"/>
+				</g>
+				<g id="shape48-44" v:mID="48" v:groupContext="shape" transform="translate(0,-1.81385)">
+					<title>Φύλλο.48</title>
+					<ellipse cx="20.1669" cy="399.361" rx="20.1669" ry="20.1669" class="st11"/>
+				</g>
+				<g id="shape49-46" v:mID="49" v:groupContext="shape" transform="translate(6.50377,5.68434E-14)">
+					<title>Φύλλο.49</title>
+					<path d="M25.86 392.96 A5.05547 5.05547 -180 0 0 25.86 385.84 L17.21 377.16 A5.028 5.028 -180 0 0 10.12 377.16
+								 L1.46 385.84 A5.05547 5.05547 -180 0 0 1.46 392.96 L8.66 400.29 A1.40125 1.40125 0 0 1 9.07 401.28
+								 L9.07 414.69 A1.73095 1.73095 -180 0 0 9.57 415.9 L12.87 419.2 A1.12649 1.12649 -180 0 0 14.46 419.2
+								 L17.65 416.01 L19.52 414.14 a0.686885 0.686885 -180 0 0 7.10543E-15 -0.934163 L18.17 411.86 a0.741836
+								 0.741836 0 0 1 -1.06581E-14 -1.01659 L19.52 409.5 a0.686885 0.686885 -180 0 0 1.06581E-14 -0.934163
+								 L18.17 407.22 a0.741836 0.741836 0 0 1 -7.10543E-15 -1.01659 L19.52 404.86 a0.686885 0.686885 -180
+								 0 0 -1.77636E-14 -0.934163 L17.65 402.03 L17.65 401.34 L25.86 392.96 ZM13.66 379.28 A2.8437 2.8437
+								 0 1 1 13.66 384.96 A2.8437 2.8437 0 1 1 13.66 379.28 Z" class="st12"/>
+				</g>
+				<g id="shape50-50" v:mID="50" v:groupContext="shape" transform="translate(17.7216,-4.5734)">
+					<title>Φύλλο.50</title>
+					<path d="M0.19 419.43 a0.631934 0.631934 -180 0 0 1.04407 -0.467082 L1.24 407.97 a0.65941 0.65941 -180 0 0 -0.302229
+								 -0.549508 a0.604459 0.604459 -180 0 0 -0.934163 0.549508 L0 418.96 a0.769311 0.769311 -180 0 0 0.192328
+								 0.467082 Z" class="st13"/>
+				</g>
+				<g id="shape51-52" v:mID="51" v:groupContext="shape" transform="translate(13.2431,-29.1244)">
+					<title>Φύλλο.51</title>
+					<path d="M0 418.76 a0.769329 0.769329 -180 0 0 0.769311 0.769311 L13.44 419.53 a0.769329 0.769329 -180 0 0 0.769311
+								 -0.769311 L14.2 418.62 a0.769329 0.769329 -180 0 0 -0.769311 -0.769311 L0.77 417.85 a0.769329 0.769329
+								 -180 0 0 -0.769311 0.769311 L0 418.76 Z" class="st13"/>
+				</g>
+				<g id="shape52-54" v:mID="52" v:groupContext="shape" transform="translate(13.2431,-26.4043)">
+					<title>Φύλλο.52</title>
+					<path d="M0 418.76 a0.769329 0.769329 -180 0 0 0.769311 0.769311 L13.44 419.53 a0.769329 0.769329 -180 0 0 0.769311
+								 -0.769311 L14.2 418.62 a0.769329 0.769329 -180 0 0 -0.769311 -0.769311 L0.77 417.85 a0.769329 0.769329
+								 -180 0 0 -0.769311 0.769311 L0 418.76 Z" class="st13"/>
+				</g>
+			</g>
+			<g id="shape45-56" v:mID="45" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="20.6394" cy="428.904" width="53.01" height="10.6016"/>
+				<text x="-2.35" y="432.5" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Key Vault</text>			</g>
+		</g>
+		<g id="group54-58" transform="translate(423.193,-50.9884)" v:mID="54" v:groupContext="group">
+			<title>App Services</title>
+			<desc>Web App</desc>
+			<g id="group55-59" v:mID="55" v:groupContext="group">
+				<title>Φύλλο.55</title>
+				<g id="shape56-60" v:mID="56" v:groupContext="shape" transform="translate(1.82828,2.27374E-13)">
+					<title>Φύλλο.56</title>
+					<path d="M34.18 419.52 A24.3583 24.3583 0 1 1 4.32 381.03 L4.57 380.84 A24.358 24.358 0 0 1 34.18 419.53 L34.18
+								 419.52 Z" class="st14"/>
+					<path d="M34.18 419.52 A24.3583 24.3583 0 1 1 4.32 381.03 L4.57 380.84 A24.358 24.358 0 0 1 34.18 419.53"
+							class="st15"/>
+				</g>
+				<g id="shape57-65" v:mID="57" v:groupContext="shape" transform="translate(-4.4964E-14,-2.52177)">
+					<title>Φύλλο.57</title>
+					<path d="M2.4 407.51 A54.0948 54.0948 -180 0 0 0 415.03 A27.109 27.109 -180 0 0 1.78 417.67 A23.2862 23.2862
+								 -180 0 0 3.37 419.53 A51.0887 51.0887 0 0 1 6.48 409.59 A7.79456 7.79456 0 0 1 2.4 407.51 ZM5.2
+								 394.52 A34.2359 34.2359 0 0 1 3.23 386.08 A24.0714 24.0714 -180 0 0 0.07 390.25 A37.9125 37.9125
+								 -180 0 0 1.7 397.02 A7.82608 7.82608 0 0 1 5.2 394.52 Z" class="st16"/>
+				</g>
+				<g id="shape58-67" v:mID="58" v:groupContext="shape" transform="translate(-2.29816E-13,-12.3366)">
+					<title>Φύλλο.58</title>
+					<ellipse cx="7.82894" cy="411.699" rx="7.82894" ry="7.82894" class="st17"/>
+				</g>
+				<g id="shape59-71" v:mID="59" v:groupContext="shape" transform="translate(9.27896,-1.61909)">
+					<title>Φύλλο.59</title>
+					<path d="M9.96 415.28 A5.055 5.055 0 0 1 11.51 411.64 A34.3247 34.3247 0 0 1 4.28 406.32 A7.78309 7.78309 0 0
+								 1 0 408.67 A33.8748 33.8748 -180 0 0 4.15 412.36 A35.4882 35.4882 -180 0 0 10.01 415.94 A5.44473
+								 5.44473 0 0 1 9.96 415.28 ZM28.01 415.89 A34.1814 34.1814 0 0 1 20.12 414.97 C20.12 415.07 20.14
+								 415.17 20.14 415.28 A5.0636 5.0636 0 0 1 18.69 418.83 A39.7838 39.7838 -180 0 0 28.46 419.53 A24.2978
+								 24.2978 -180 0 0 31.76 415.68 A34.9265 34.9265 0 0 1 28.01 415.89 Z" class="st16"/>
+				</g>
+				<g id="shape60-73" v:mID="60" v:groupContext="shape" transform="translate(19.2428,-0.782321)">
+					<title>Φύλλο.60</title>
+					<ellipse cx="5.08652" cy="414.441" rx="5.08652" ry="5.08652" class="st18"/>
+				</g>
+				<g id="shape61-75" v:mID="61" v:groupContext="shape" transform="translate(10.1569,-19.3096)">
+					<title>Φύλλο.61</title>
+					<path d="M12.35 408.56 A38.8467 38.8467 0 0 1 29.39 404.41 A24.0714 24.0714 -180 0 0 25.13 400.26 A41.3885 41.3885
+								 -180 0 0 11.68 403.44 C10.74 403.84 9.83 404.3 8.94 404.78 A48.6128 48.6128 0 0 1 3.27 396.43 A24.7735
+								 24.7735 -180 0 0 0.16 397.63 A50.848 50.848 -180 0 0 6.06 406.5 A35.4824 35.4824 -180 0 0 0 411.51
+								 A7.82608 7.82608 0 0 1 3.86 414.66 A34.1929 34.1929 0 0 1 9.38 410.26 A79.1835 79.1835 -180 0 0
+								 19.98 419.53 A5.28425 5.28425 0 0 1 21.73 416.7 A76.7449 76.7449 0 0 1 12.35 408.56 Z"
+							class="st16"/>
+				</g>
+				<g id="shape62-77" v:mID="62" v:groupContext="shape" transform="translate(30.5191,-13.0817)">
+					<title>Φύλλο.62</title>
+					<ellipse cx="5.40174" cy="414.126" rx="5.40174" ry="5.40174" class="st19"/>
+				</g>
+				<g id="shape63-79" v:mID="63" v:groupContext="shape" transform="translate(39.3109,-11.646)">
+					<title>Φύλλο.63</title>
+					<path d="M5.69 416.33 A55.0777 55.0777 0 0 1 4.77 415.85 L4.69 415.8 L3.83 415.34 L3.67 415.26 L2.91 414.83 L2.72
+								 414.73 L1.83 414.21 A5.15816 5.15816 0 0 1 0 416.87 L1.07 417.48 L1.31 417.61 C1.64 417.8 1.97 417.98
+								 2.31 418.17 L2.41 418.22 C3.21 418.66 4.03 419.1 4.88 419.53 A24.3379 24.3379 -180 0 0 5.69 416.34
+								 L5.69 416.33 Z" class="st16"/>
+				</g>
+				<g id="shape64-81" v:mID="64" v:groupContext="shape" transform="translate(-2.29816E-13,-12.3366)">
+					<title>Φύλλο.64</title>
+					<ellipse cx="7.82894" cy="411.699" rx="7.82894" ry="7.82894" class="st19"/>
+				</g>
+				<g id="shape65-83" v:mID="65" v:groupContext="shape" transform="translate(19.4702,-1.08483)">
+					<title>Φύλλο.65</title>
+					<ellipse cx="5.08652" cy="414.441" rx="5.08652" ry="5.08652" class="st19"/>
+				</g>
+			</g>
+			<g id="shape54-85" v:mID="54" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="24.6854" cy="435.278" width="86.4" height="15.7507"/>
+				<text x="2.08" y="438.88" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Web App</text>			</g>
+		</g>
+		<g id="shape66-87" v:mID="66" v:groupContext="shape" transform="translate(315.693,-129.654)">
+			<title>Φύλλο.66</title>
+			<desc>GitHub Actions</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="24.4644" cy="419.528" width="48.93" height="0"/>
+			<rect v:rectContext="foreign" x="0" y="370.599" width="48.9288" height="48.9288" class="st20"/>
+			<image x="0" y="370.599" width="48.9288" height="48.9288" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+						iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7D
+						AcdvqGQAAB6lSURBVHhe7Z0vrFXJlsZbtEC0aNECQSZkmqRJXme6k+6kBZPwEiZBIBAIkrmTIEgGgWjRgkwQV7ToySAQCAQCgUAgEAhe
+						csUViBYIBAKBaIFAtLjiCgSi5/cxa9/ZZ986u6r2rtq7zj71JV9eP279WadqrV3/Vq36bG6c+OfzX3z5b7vn4M3T//3XPfgMvoZ/wL8c
+						/BO+hfvwAfluwUvwKyuyomKzIYM4+Z/7v6Lgv8OP0GUIQyijekj5V2V4Vl1FRflAaX/AKO6iwO9aCp2TH+BT6r2CsXxuYlRUlAMpJgq6
+						g6K+bCnuHHyPce4iz0kTraJiPsgwUMhrKKbWCi6FnYsfNIpVQ6mYDYwYF1HENx3FLI0HGMptDOWEiV1RkRf6KqN4TzqKWDrfYNDn7SdU
+						VOQBX+MrKNtBR/k2hsh/r44mFckhpUK57ruUbiBlZNr61VbtLrwJr7V4He7yd9X5HKbcEXvF7/naflpFxTjYlGrs7tQhfGzKf9aKjgL5
+						voKXNQpQ1thNAa1NLlrRFRXDgHF8gzIN/XrrYPCJlDrHtIZyv0PJ71CHTtxd9fv4kfw3rLiKijigPOdQoiHK92mLFQU+ZUVlhU3/rlPv
+						oFGFvD9bURUVYTDj0LTIqVRrqC+yFsGznD1Qr85kZCjvO3J5WY2kIhg2rYodOX5nxPibFTErkP9LGapDxl5WI6nwQl9/lCVmzaFR45a+
+						3lZEMcBgzyNf1PqJ33LFsldUrAIlP4GSxOxWvUcJf7LsRYLf9BVyapvYJb+Lh1r8W/aKiv8HX8+Ycw6dJWyEn5NGt8gp1x/k+dKyV1Qc
+						nZC7lMXFFyjQxt3B4Df+4vgt6/jEslVsO1D2UyhEqPvIRhpHA4zkZ8dvcpK0O5atYpuBMoQ6HmpatfG391D83xy/zcU/+b31eu82gwWp
+						XNZdytHle5Qles2hPCjkbfLL76oZpXROoRuAO/x9lt0v6n9ssvj4wLJUbBuknChAyH2Oj0N2q2w64ztsfEvZFyzLZOC3f0HdChjhkmmF
+						dVdrS4EC6yagUynaJN0tyxIM8uhOurO8NXyI0k46nUHx/0a9us/ukqfNPctSsS2w0SPEd+n32GkQxhGzW9TmnzJaK2YShMo6ZASt2GDQ
+						4Qqw4FSGFjW1inIfwZh0Eh/yVe7jPvWesSKzwj4UIVOtp5alYhtAh3tPzPm63rPkwSCPYmA5y4ukPIJ1lzz7Ih5jlEuKS4Y29bE4bVkq
+						lgw6+geHAnT5QaOBZQkG+V51yhlL3SXPPr2hHkV5dNV/RAz2N0tesWTQ0d4FtNJY8iiQN2X0xCMiz30MNpv7R+BH450lr1gy1NGdju9S
+						04lBl50cZXWpqd1QI1JQuGzetpT/olPfMdIu5yx5xRKhDnZ1fIeD/ZAcZa2Q+nUn/Tv+WweHzjQBfMZoknw9gFxXHXWtcOjIWrEhoIO9
+						i2gU5bIlj4arvDZlIEqnxTeyhBwkruOh8qdcxFOW3P29B5uWvGKJoIN9X+5DKYolj4ajvBU2BtKAuuQo+bSbLoIvKfMHK240KO9Rp/xj
+						pL66m7VEoIxyr/DN/x9b8kFwlLfCroE00NqCvw+OnkL+O/p9VtxgIJ/X7Z801ct3iaBjveuPdQocCleZbfaVj4I3d8mHLuL/IP8lK24Q
+						JIOj3BVSR12HLBEop152cnZ6Q9IMCurWwFVmmyEGSJqfSBvkSLiGT1D0wbcdye87y9m3pBVLAh3ru3Z6YEkHw1HmCkMMREDBtYi/RZ6h
+						bivy6xq0JUveB52yunxvSSuWBDrWd1r8uyUdDEeZKww1kAYYymny7XXLCaQCMESHIiKP99YhctVn35YGOtY3bXloSQfDUeYKYw2kAaOB
+						nCuHRHl8qdHIigkCMl5ylLNC0kziTFkxIejYda/JfiKdvmtJB8NVbptDDURA0bWAftgt00fqjDp9J/23rnLaJM3fLXnFUuDq6Dbp9JuW
+						dDBc5bY5xkAaUIa8b2NetoryDKB8Tetc5RyRNDUy/NLg6ug2Uyivq9w2U9QhMJooYLW8AkK2hKMW1ZqSOcpYYarfUVEQXB3d5iYZSAPK
+						Uxxh75awJQ+Gq4w2q4EsEK6ObnPTDEQ7SYwiCuHjG0U+WpZgOMpYYTWQBcLV0W3S6dct6WC4ym0zlWJhGNpp6t10aPG1ZQsCMurasKuc
+						I5KmBrleGujY3m1SOr3oXSyBUSPauRFjinINQcYzrnLaJE3dxVoa6FhfFJP7lnQwHGWucKiBaOGMog9xj48OPCHld5SzQtJ8b8krlgI6
+						dr/b0R0+t6SD4ShzhUMMhDzyzRr0iChGFR14gvr0SpWzvIakqSFJlwY61udjNPrOtaPMFcYYCKPGWO9eBdqOvttCnXoY1FVew0NLWrEk
+						oJxy/nN1+BHHfhldZbYZaiAoqa6/Rr812OID7XJZcVEgr8/365UlrVgSUM4QH6PB120FV5lt+gwEpdYpdsyLUF2OivWrtQ5l+NY5jyx5
+						xZKA4ug5MleHH3HInL0NV5ltrjMQKSZ1Kwr8UPd2BZr7dciUqg3kC7lUVh/7XCroYN/ZwaigBI7yVugyEFPKGN+qLhWq9BsrbhRkZI7y
+						V0hddQdrqaCDfQt1KcDgcP+u8tpsGwhfe41o0d65LepSVNL74ZTp2woffamsomCgoCGxn+5Y8mi4ymuzMRDq0NMLQ+53NNQiPGmkRWTT
+						drKrrjZHBbWoKBwolSKb+Ob5enps0FzeUdYKMQz5TnkjGPbwNYqcJbohZXtHM+quEU2WDjra66qBIg/yy3KVlYhahN/CcLNEe6fckGcb
+						FNC7XrVdOvgKhjz5/HaIMpJvaGyrPj5HlqzB2jC+kBex6vRqGyDFp7O9h3BDRhHyeSMTRvAdMmT3mg0cPTS9mvwtxYqZgOLtupSgQ71s
+						G7UQRolCX83toyIl3o2teyioL2QnLcplvmLDEfrVRFGjDw7JNzRMj5g01q4P1BXyupTaodcDoGKB0FfapQxdSoksSxDM+GL9qA6QJ2m0
+						dh+oSzt6IZeuBq3HKjYcpsjN4/59fEfaKCdG0sunKvQ5NoUKHfRgzxhQb9AhZR09thh0vvyfnIrRoXaSor6iSq9RgbzrdrZeaM1iyScF
+						cnnvfBhfWpaKbQRKrEdjgvygUKrBjowYwvfwKtQLU5fg4ODSY8Hv0Loj6I4Jctb30bcdKEHQQlVEuX6xbBsJfqse6wy6tjvmg1CxMEgZ
+						XEriImk30t3bjCN080AL83pqXvF/sKlW8BvnGMlGvRmOvBolQwM+KNDDZFvNFRsCjORrlCNkV6vh4034ymIcWpAH32sn/egYxRULBcqh
+						k/CYIAnyro1+g2MKyHiRL+q+Cb//gWWvqHADJbnhUp4eytP2FxSymMM023gIjbzYMHoru2JLgcJ7X1lyUKNJ1Kl7aqDgOvwccktRIYLq
+						orwiHAONRHw69SJXhoG8cp0ZEvShGkfFMIwwElEn5VdRvlGRRvpA+bomqxFjiGGImlZV46gYDoxEF6xiY+K2qbyPUOYrKOMoF3byf045
+						55BJ0Ud8ARZ6SRm6117XHBXjgVJ+h1LFLnrXUectDyjzZyi3k2/h6bay8v9PwjPw7/A6yqxwoHKjH2OoDXXfpG7lVqSFvv4o15OOsm0a
+						FXkxy/rIjPqKGbOe3JaPmytyi5w3FYz7MWlvk+cCbbtV07xFtxWCDn2SeVYi973UjUuHnaVcTfe8z8B5qDXUHuVd14fIil8UtqqtEExB
+						37xB6Aqhbikm9cqlvMuUOyZ8UR+lAJqCFnkAG4utbisE09pkzBXbnHzLFyvpZSd+rzwNgn3WElCbG2es+o1CbasWEEzbrYq3NfQtj5R8
+						LcNglEu2Q0VZevpNc2VXfbkpT4XbKX9PTtS26gGGchoBFT0xR3ysPmqofUz9yUPz8HsUrjXGiTMXX9HxX5tYRaK2VQRQVp1X6HR71HlF
+						D9URMoodGiP5zoa+QsgffE9mIh4i0yUTsRjUthoJjSxSZIQeOifV+Yfyap6p85OsTxDI4KhrzEM+OalznGIurdW2SggE9joS8oN2MYAr
+						UIeEuss+6YOZ1uFjd11kzBrd9Ft0D7/hTX6fpqBar415Yk7tNHvH17ZKDIT1GggNc8OSTw5NFZDB9xqwi9qceI7smu4FGzTpdTagyDKD
+						HhCas+NrW2UAgoa4oj+15JODumNjC6uzH9J5o7cXKeMCZcUqnKYQs8yzqbu2VWogZIiB6JmByU9I9YVxyNLHZE+/tYEc2gmK2QU8pL0m
+						3bGpbZUJCBhiIJMPh3SeDjxDz3CyL/w09aCemLMEbWtOsvdf2yojEC7IQKAiy2e7R9KGGov6QnfXtHU42a1J6vI+KtqQtLuWLRtqW2UG
+						woUaiH7EJEHqqOemq34HD/T1tGyTAflCpzMfkC+rq0Vtq8xAsGADgQd8sbIGtaZ8ufCHnPzKhSHL24ghoO7Qr2O2V7BqW00AhIoxEHFP
+						w7plTw4aM+QhIY1ms0d4R46geTZfxiyerbWtJgBCxRqIGvxXy54UGJ6iSYYcQD2yLLMCebUYDdmxSR7bq7bVRECgaAMRMZLkOyF8Pbxv
+						xkNN8yY9ye8D7RAic/Jt8tpWEwGBBhmImNpIKNN7jyWHYbZB5zRvqMiXSSfET1DG3vk7abwHZJQx6BnvdaDM2lZTAIEGG4hIAyWJRKIv
+						HeX59vKzbjVTtvyYXB2os4O17jZ0qE6Ru3m63LPko1HbakIgzCgDMb7ih4/aQiS/d/il4bOsfQTr8D4nP21Drt3B4+8+fyRNHZJcAaht
+						NSEQJoWBiPpy3OeHDXqpivz3O+UdI42eZZ88oMM/kfrXTln47d6n88if5PIYZdW2mgoIk8pAGuomoe6IRJ3Yksd3GpzlXfTQDhf5TWtP
+						e/nbWVeeNqUYlnwUKKu21VRAmNQG0qZCEelegS5UXYQKPKeLWsdIut45NQ1210ROhpgOF5HzqmV1gjS+bdcnlnQUKKe21VRAEJ+B7KvB
+						Hf8+KWnwHRN5LUijiJC61OXd2oztcKint3sXvaTRRSJX3km5kLYq4zVjBPEaiNJhJEGntrlIR/74SWAH+JsiuHSDn619bWtAhx+qDsu+
+						FrSRbtu58k/KhbTVO0s6LxAkyEAEftQl/v8sETJo9NMmxgr49zP8fV184GPPKAzpcH53kB8TsoQ6DmblUtrKks4LBAk2EIFGmyXGklV/
+						DPzNJ/9Rx+fscIFOv+YoY3KaOMfA3zaqrSzpvECQKANpQGNoL36yWFtW7THwt5D70HoXRS9dZetwYQMMZKPaypLOCwQZZCACX5kTNIxc
+						DbIbCg3qXEzyt9DAy9p+dv27i9EdLpRiIEtpK0s6LxBksIE0wFD0iI4e9ckW6pTyz1p1K+Bv3kOzSA7qcAEZZ93IaLiQtjqwpPMCQUYb
+						SBuau/LjNf1SZ+hAK4nBUKYz+gX1aU00KkZTi4M7XCD/4055s3AhbfXGks4LBElqIF3Y6HIWas99B7YDkR3RUe8K6Yy1J6vU8Q1pxnb8
+						qA4XKMN3wq1nH5y/P4aOcle4kLZ6ZknnBYJkNZBQUI/vObleD8+RHT+6w6lfHrauso9IHXcs+ShQVm2rqYAwpRiI72TV6+E5sONHd7jA
+						l11xjl3lH5E0Vyz5KFBWbaupgDBFGAgN4o1+QRrv3erIjk/S4QJleYNFI/8gT+cualtNCIQpxUC8Hp4wyD8nsOOTdTiy64TatxmRzMO2
+						ttWEQJgiDESgLu+7JTRwkBu9p+N12y5Z2E3K87Wh5tRJLzBRZm2rKYBAxRgIDeO9SAODvTyt4/VkcTv/m5QdjhKqDu9Wtr76liUJaltN
+						BAQqxkBoGO3TexsQ5bhpWYJAuT/Cq/pf+6dkQJ6QiOYvLHky1LaaCAhUjIEI1BcSwl8u1bMHGEP5vItlEVkvW5akoOzaVrmBUEUZCA0U
+						Gqlcw3/vVmZO0OHnkSFEzleWJTlqW00AhCrKQATq9MnU8NgdhimgLzJ1r7tXsULSXrRsWUAdta1yAsGKMxA6Uu7WoRezJu14vobnqDNU
+						tuzuErWtMgPBijMQgcaNcR1/oy+VZc0GkynUFTx7JPwGta0yAuGKNBCBumOCIOgwK2rHJhR0nnyHot7/Q5beqB6pQZ21rXIAAYs1EE0H
+						qD/kFlyb8phN8ooS9TcXwqLu4ZPnnhUxGWpbZQJCFmsgAg3fd8rbx0+u5VIcKyoY5DtDx+nRlyH1PqfOWd7bq22VAQhZtIEIdIJC1QTt
+						hDioefAenXibci5B3U05upLKf5+COhzbIY3if4VeS3Vxlp2iNvgdta1SAkGLNxCBTlHHD/lKTcViOry2VUIg7EYYiECjagoRO8+ego+Q
+						raipQm2rREDgjTEQQV8eZIrZscnJ7G+Oj0FtqwRA8I0ykAY0tvbZo3ZMEnP0myhTobbVCCD8RhqIwBdSp8iSP8TPJxUPULibGzVNALWt
+						BoIfsbEG0kBfJ+TU4VTOzv+Tzt6ls8t5YHIAaltFgh+z8QbSgM4/RcfoIpH3tl0gpUR7lLtDZ2d7728O1LYKBD9qMQbSBh2lPXyd7GqR
+						6guT01CdrHhN98l7lY72vp2xBNS26gE/cJEG0gUdqIiPzaMxujHXBGK7bP/mfDJgG1HbqgUMYCsMpKJiEDCAaiAVFeuAAVQDqahYBwyg
+						GkhFxTpgANVAKirWAQOoBlJRsQ4YQDWQiop1wAC2wkDq3n44/ulfzn/xr/+x+y38O7wKrxkv27/Vc5AWN9JAUPh6OhwIFP4s/Pm//vHX
+						U/gH/CuAH+EreJ+8VzGqepJeOlDqXP5FMpZF+WKh1Kf+/X/2b6Pgb03hx1IGs2fGsihfrHsthXDxrSUtFijwFB6q75fgoYoCf4ciPzKF
+						dil6Cr7H+HYxlM335kW5bjmUoc2PKEWR/vzIVe84BAJlPYniPoQ5DaPLAwzlJnVv7n0QTR8cSrBC0nxryYsBSlpvyQUCJb0mZe0o75R8
+						pZHLxNks0MnfOzp/haS5YclnB1/ues86EHy5v0A5tfB2Ke3U/Iihbt6ddE0V6GhfDNXHlnxWIGuN1BEIjOMblPJNR0lL4KONm3LRwb6X
+						fw5RgFl3JhjFSo/1tK/RzcSdFUxnfkIR33cUsyTua3QzccuHdmccHb5CFHS2d6vNOHJFCzwNFxMt0IzjsKOQofwA97T9SzmXoM5HjtqK
+						/z4Nf4Q7pLlL2tetvLF8sTFGgnJIAV0d3uYs5yE2rarxZgNg06ohI8dLlP7aEIUl3xmM5VfKGFLv842ZbtGx7zodfYwozqQ7EVJu6q0R
+						ywMg5UbhYtccMowkbUX9J7QIp8yo3TLylB3dvYF9MZ0d3uKeJZ8E1BezW7XVb16gbDG7VYcoZpa2wlC+onwdRLrqdRJZyn0fpAFf3dN0
+						rPfAjY6/ZFmygnrqq0mBQMF0zuFUPgffMGpkbyuTSWsalwxdHmBYZb4w1QadGvLFfkfHZ3UhoPz67l4gUCydkIdOayZdGGMk56gzVLYy
+						3yhsQ2sMRye7mPVchPJ9DpQNZ9k1snYq4uVWFEvuIy6F63KWXSNGK/l+Be2qkba8V267oFOD5v18SbOcipryhfhWbf3b36Z8Ib5Vb+Yw
+						jgaMJOeRIUTO8t5J7wIFPUOnhsyz5WaR/GyEckMWw4fImX0e7YM+Eg7ZjhFZL1uWpEChQhbDh1OsOXzASLTD5ZJvhciapa2Sgo73Hhwa
+						kxoJinRKZXbqOEbqzLIDMwTI4/NCEF9Y8mRAkU6hUN6vMopZTFshz35XPgeTt1VyMHWRf5Zu1rk6u0sZyXXLOgqUo8tOrjrafGnJiwBG
+						rYNMr1GT7qxlSQIUX5edXArWZlFthVHrINNr1KRL2lZZoCkMHRvs3oFy38OwRvlrUY73JiByJTnYSgnk8m4q0D6/WvIkQJG8NwFRtOLa
+						Crm8mwoYf9K2ygY6dcfV2T3UHYkfLHsU9IV1lNdlUV/EBsiudZtvFHltyUdDX1iXYnVYZFsh+xlk840iydoqO/Tlc3R2HzXlus9octKK
+						CAJK5l3wkuaaJS8OyPe8K2+XyB/VJuuAknkXvKQptq2Q73lX3i6RP0lbTQIU/oGrwz38QL67GhmsmF6Q3re9/GHObV0f+J3e0ZY0STY0
+						UCCfW8mHObd1fUD5dxwyr5A0s3mPR8MW7Y+7HR7BFxjLz33GQhpfaJ5J/cBiQRvJX8sl9xFpgzuWfBRQIF9onqLbCuOVv5ZL7iOyDknS
+						VpNCI4Kr4yP5J3xmo8st+CmAWyfNMZL+tonRCxr/BF+fi5pi6H/1/+1PwSDPSfI2AdOC7+Mjp2/nL8qdgrq/grp/oWBtDb1fX+1wWRHF
+						AjkVU8spv7F81xMXUNQbdHTICXJSYkReJ0mUR5eF3nUa+p3+3ZJ4gXLdIk/Xye5ZyJQFOX2j7BtL2gsZKHV65+nryO+dxKF0DJDzcVfu
+						DoPaqkigrHLYC41WmITU2buWMaVa5xgnb1Hvog/j6Ps6e79oyOg7YD2wpGshQ6SuUXfJMZDizxGQcdcle4vetioazLm/pMNDnQpHE+Xr
+						DW2pvXNHIx9Rf7eka0G63rMFOrV3uoWM3qmiJV0LG8Gc9YcSOYsPA4qMXhd9S7rZsNEk9NR9MK26taBB97oN3GHvwpUv9+eOPCtUp1py
+						J1IYCPU869YbSyuqaGyNgQja5WJtIuVIFRP3GK2qtaBBfVufTy3pWpCm9wCLTu29+VYNJBxbZSBtoCSXUQQdmiVdyFNub8h9piY3XI3c
+						UH+3pGtBur5RSGcLvesYZLzpkr1NS7oWiaZYxT9PgIw3XbK3aUmXCZRFkdZ1Or4HQ6+priXl/WhFO2FTpBfdRjbqspA3egadtvZyjxTX
+						kq0Fv/c3l+wtvrOka5Fokd7bViWA9vzNJXuL3rZaDJiCnUDBz8NfUBIt7F9A7YIFGw55d6y4tZBy0fCK19QouYIT3NW/WxIvzEg0kjTT
+						rbeU4a1bQE6fN0CQfxTyjt3mDZJ3TiCnb0pcpC/ZbEB5eqdkfJ3vWtJigZy+OFpPLGkQUHQdFJ6BCtj2iRjPlyhP71pJHwUrolggpy+O
+						VlRbLR4oj28nrGgPT0Y4rzcyRp7khBvl8Z1CF91WGLrXGxkjL94bYFKgQPe7CtUlSnjGkhcHKb9L5jaR/4IlHwUU6H5XobrUyGPJi4OU
+						3yVzm8ifpK0WA5TH+04JSljsRRrk80WATOaNjPJcdSlVmyhhsW2FfL5NiKK9kWeBecP6tobfa8FvWYqBRgaHrF0m87BFeeQN67t09J50
+						xbWVRgaHrF0W7Y08G6REHaU6RkaR4h5hQS5v4AaMKMm9/QZSoo5SHSOjSHFthVzewA0YUdK2WgxQopArvgrpWYyvEQbrnRpCTa+SRqNE
+						ibxu71BOmsW0FQbrnRpCTa82//HPHND0CWUKeXLgkWWZFTYt9EbFhw8sSzJo+oQyhTw5UERb2bSwexXBxeRttSjwRQ6KyUW62e9cI8ez
+						rlwuMjJmCdzGF9nnMv6JpJu9rZAjyMeMkXH2IHdFQ1MRlCokOLTuvJ+zbJODukODWWSLY6ypCEoVEhz6A0YyW1tRd+9VhBaLeAuzeKB8
+						Xqc/4wFf58mfF0a+oJCj8APyZT2PQPm8Tn/GA77Ok7cV8gWFHIUfkK/Ys5uiwCgSE9lRD+dMFiAtYuTQNHDXsmUDo4icNH0n6w3lmzZZ
+						W0WMHJoGZm+rRUEjA0oW6jKf/b1yW5AHrTmMr2Tolj0rNDKgZL5zkYbZ3yu3BXnMvZZXMnTLXhGKiKlMw30M6xvLngzIoa3ckN2qhno2
+						+2vLPgkipjIN9zGs5G2FHNrKDdmtaniIcUzaVosCyhb1NiDUqPMwxdyfMnRCHhK9vU2NZrNEFUHZot4GhBp1HqaY+1OGTshDore3qdGs
+						+AgsRcPWI7FKKspQnqPkO5oeWXFekP4sCi7Hw9jXdT8x91SvD7YeiVVSUYbyHCXf0fTIivOC9GdRcDkeDrrglXuqtzVAwfUctC5ZOZUy
+						kFr0P8YAduGnYHXGmyi1bgLqstOQd9GPOKdxNEDBdSNx3c3KUGrR/xgD2IUKntfwJkqtm4C67DTkXfQjVuNIDDMSb4DomZh9kyAGZiSD
+						byRmZvZNgq2Fplso4j2Hgs5JbTMXN4/WdAtFvOdQ0Dmpbea65sgNFFK7SqFPMeektnKL3oFBIbWrFPoUc05qK7fuVk0FFFPvGcacS6Sk
+						3Fx2NaKZOEUDxdR7hqPjbQ2k3Fx2NaKZOBVTgkX2RRQ2e2THFrXQ30iXCBbZF1HY0FP3FNRCv7qPlACUVgHrxu50raPCEz2gjkV4mqK0
+						l1HesTtd66jI+A+oo3rllgiUWOcY8pd63VLwIZRR7FHedaZSi7zAgxLrHEP+Uq9bCj6EMoo9yrvOVKpedtoUoNwn4RUM5g7KrvWKDv9c
+						i3u5kbyET0h7mzwXMIqtChqAcuvRoCsYzB2UXesVHf65FvdyI3kJn5D2NnkuYBQZ2uqzz/4X3YPXi56LPcQAAAAASUVORK5CYII="/>
+			<rect v:rectContext="foreign" x="0" y="370.599" width="48.9288" height="48.9288" class="st20"/>
+			<text x="7.25" y="434.33" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>GitHub <tspan x="6.41"
+						dy="1.2em" class="st7">Actions</tspan></text>		</g>
+		<g id="group68-93" transform="translate(123.688,-129.654)" v:mID="68" v:groupContext="group">
+			<v:userDefs/>
+			<title>trello-mark-blue-flat</title>
+			<desc>Created with Sketch.</desc>
+			<g id="group69-94" v:mID="69" v:groupContext="group">
+				<title>Mark</title>
+				<g id="shape70-95" v:mID="70" v:groupContext="shape">
+					<title>Board</title>
+					<path d="M0 413.41 A6.11624 6.11624 -180 0 0 6.12 419.53 L42.81 419.53 A6.11624 6.11624 -180 0 0 48.93 413.41
+								 L48.93 376.71 A6.11624 6.11624 -180 0 0 42.81 370.6 L6.12 370.6 A6.11624 6.11624 -180 0 0 -0 376.71
+								 L0 413.41 Z" class="st21"/>
+				</g>
+				<g id="shape71-97" v:mID="71" v:groupContext="shape" transform="translate(27.6448,-21.1617)">
+					<title>Right-List</title>
+					<path d="M0 416.59 A2.9358 2.9358 -180 0 0 2.94 419.53 L11.99 419.53 A2.9358 2.9358 -180 0 0 14.92 416.59 L14.92
+								 401.06 A2.9358 2.9358 -180 0 0 11.99 398.12 L2.94 398.12 A2.9358 2.9358 -180 0 0 0 401.06 L0 416.59
+								 Z" class="st22"/>
+				</g>
+				<g id="shape72-99" v:mID="72" v:groupContext="shape" transform="translate(6.36075,-8.92951)">
+					<title>Left-List</title>
+					<path d="M0 416.59 A2.9358 2.9358 -180 0 0 2.94 419.53 L11.99 419.53 A2.9358 2.9358 -180 0 0 14.92 416.59 L14.92
+								 388.82 A2.9358 2.9358 -180 0 0 11.99 385.89 L2.94 385.89 A2.9358 2.9358 -180 0 0 0 388.82 L0 416.59
+								 Z" class="st22"/>
+				</g>
+			</g>
+			<g id="shape68-101" v:mID="68" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="24.4644" cy="395.063" width="48.93" height="48.9288"/>
+				<text x="10.55" y="434.66" class="st4" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/>Trello</text>			</g>
+		</g>
+		<g id="group77-103" transform="translate(417.504,-138.203)" v:mID="77" v:groupContext="group">
+			<title>Resource Groups</title>
+			<desc>Resource Group</desc>
+			<g id="group78-104" v:mID="78" v:groupContext="group">
+				<title>Φύλλο.78</title>
+				<g id="shape79-105" v:mID="79" v:groupContext="shape">
+					<title>Φύλλο.79</title>
+					<path d="M0 413.59 a0.490584 0.490584 -180 0 0 0.245292 0.429261 L3.8 416.01 L9.81 419.48 a0.521246 0.521246
+								 -180 0 0 0.705215 -0.183969 L12.54 415.86 a0.490584 0.490584 -180 0 0 -0.183969 -0.643892 L5.3 411.23
+								 a0.521246 0.521246 0 0 1 -0.245292 -0.429261 L5.06 379.16 a0.490584 0.490584 0 0 1 0.245292 -0.429261
+								 L12.36 374.74 a0.490584 0.490584 -180 0 0 0.183969 -0.643892 L10.52 370.66 a0.521246 0.521246 -180
+								 0 0 -0.705215 -0.245292 L3.92 373.82 L0.25 375.88 a0.490584 0.490584 -180 0 0 -0.245292 0.429261
+								 L0 413.59 Z" class="st23"/>
+				</g>
+				<g id="shape80-107" v:mID="80" v:groupContext="shape" transform="translate(0,-0.110988)">
+					<title>Φύλλο.80</title>
+					<path d="M5.03 379.02 L5.21 378.84 L12.26 374.85 a0.429261 0.429261 -180 0 0 0.183969 -0.643892 L10.42 370.77
+								 a0.459923 0.459923 -180 0 0 -0.674553 -0.245292 L3.83 373.93 L0.18 375.99 C0.18 375.99 0.03 375.99
+								 0 376.17 L2.76 377.73 L5.03 379.02 ZM12.26 415.26 L5.21 411.28 a0.674553 0.674553 0 0 1 -0.214631
+								 -0.275954 L0.03 414.07 L0.18 414.07 L3.71 416.06 L9.84 419.46 a0.459923 0.459923 -180 0 0 0.674553
+								 -0.183969 L12.54 415.85 a0.429261 0.429261 -180 0 0 -0.275954 -0.582569 Z" class="st24"/>
+				</g>
+				<g id="shape81-109" v:mID="81" v:groupContext="shape" transform="translate(39.5491,5.68434E-14)">
+					<title>Φύλλο.81</title>
+					<path d="M12.58 413.59 a0.490584 0.490584 0 0 1 -0.245292 0.429261 L8.77 416.01 L2.76 419.48 a0.521246 0.521246
+								 0 0 1 -0.705215 -0.183969 L0.03 415.86 a0.490584 0.490584 0 0 1 0.183969 -0.643892 L7.27 411.23
+								 a0.521246 0.521246 -180 0 0 0.245292 -0.429261 L7.52 379.16 a0.490584 0.490584 -180 0 0 -0.245292
+								 -0.429261 L0.22 374.74 a0.490584 0.490584 0 0 1 -0.183969 -0.643892 L2.06 370.66 a0.521246 0.521246
+								 0 0 1 0.705215 -0.245292 L8.65 373.76 L12.33 375.81 a0.490584 0.490584 0 0 1 0.245292 0.429261 L12.58
+								 413.59 Z" class="st23"/>
+				</g>
+				<g id="shape82-111" v:mID="82" v:groupContext="shape" transform="translate(39.6135,-0.110988)">
+					<title>Φύλλο.82</title>
+					<path d="M7.48 379.02 L7.3 378.84 L0.25 374.85 a0.429261 0.429261 0 0 1 -0.183969 -0.643892 L2.09 370.77 a0.459923
+								 0.459923 0 0 1 0.674553 -0.245292 L8.68 373.87 L12.33 375.92 L12.51 376.11 L9.75 377.67 L7.48 379.02
+								 ZM0.25 415.26 L7.3 411.28 a0.674553 0.674553 -180 0 0 0.214631 -0.275954 L12.48 414.07 L8.95 416.06
+								 L2.82 419.46 a0.459923 0.459923 0 0 1 -0.674553 -0.183969 L0.12 415.85 a0.429261 0.429261 0 0 1
+								 0.122646 -0.582569 Z" class="st24"/>
+				</g>
+				<g id="shape83-113" v:mID="83" v:groupContext="shape" transform="translate(26.0316,-5.69347)">
+					<title>Φύλλο.83</title>
+					<path d="M16.31 391.23 L16.31 410.05 L0 419.53 L0 400.67 L16.31 391.23 Z" class="st25"/>
+				</g>
+				<g id="shape84-115" v:mID="84" v:groupContext="shape" transform="translate(9.75036,-24.5196)">
+					<title>Φύλλο.84</title>
+					<path d="M32.59 410.05 L16.31 419.53 L0 410.05 L16.31 400.58 L32.59 410.05 Z" class="st26"/>
+				</g>
+				<g id="shape85-117" v:mID="85" v:groupContext="shape" transform="translate(9.75036,-5.69347)">
+					<title>Φύλλο.85</title>
+					<path d="M16.28 400.7 L16.28 419.53 L0 410.05 L0 391.23 L16.28 400.7 Z" class="st27"/>
+				</g>
+				<g id="shape86-119" v:mID="86" v:groupContext="shape" transform="translate(9.75036,-5.69347)">
+					<title>Φύλλο.86</title>
+					<path d="M0 410.05 L16.28 400.67 L16.28 419.53 L0 410.05 Z" class="st26"/>
+				</g>
+				<g id="shape87-121" v:mID="87" v:groupContext="shape" transform="translate(26.0316,-5.69347)">
+					<title>Φύλλο.87</title>
+					<path d="M16.31 410.05 L0 400.67 L0 419.53 L16.31 410.05 Z" class="st27"/>
+				</g>
+			</g>
+			<g id="shape77-123" v:mID="77" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="26.1306" cy="426.47" width="103.43" height="10.3976"/>
+				<text x="-13.09" y="430.07" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Resource Group</text>			</g>
+		</g>
+		<g id="group88-125" transform="translate(503.309,-132.393)" v:mID="88" v:groupContext="group">
+			<title>Monitor</title>
+			<desc>Azure Monitor</desc>
+			<g id="group89-126" v:mID="89" v:groupContext="group">
+				<title>Φύλλο.89</title>
+				<g id="shape90-127" v:mID="90" v:groupContext="shape">
+					<title>Φύλλο.90</title>
+					<ellipse cx="23.4843" cy="396.126" rx="23.4843" ry="23.4014" class="st28"/>
+				</g>
+				<g id="shape91-131" v:mID="91" v:groupContext="shape" transform="translate(3.03914,-3.03914)">
+					<title>Φύλλο.91</title>
+					<ellipse cx="20.4451" cy="399.165" rx="20.4451" ry="20.3622" class="st11"/>
+				</g>
+				<g id="shape92-133" v:mID="92" v:groupContext="shape" transform="translate(6.13354,-11.1343)">
+					<title>Φύλλο.92</title>
+					<path d="M0 408.48 A17.2402 17.2402 -180 0 0 5.03 419.53 L10.55 414 A9.75288 9.75288 0 0 1 7.79 408.48 L0 408.48
+								 Z" class="st26"/>
+				</g>
+				<g id="shape93-135" v:mID="93" v:groupContext="shape" transform="translate(12.0737,-24.617)">
+					<title>Φύλλο.93</title>
+					<path d="M22.82 407.67 A17.2678 17.2678 -180 0 0 12.63 403.45 L12.63 411.16 A9.42134 9.42134 0 0 1 17.35 413.09
+								 L22.82 407.67 ZM0 407.67 L5.53 413.2 A9.42134 9.42134 0 0 1 10.25 411.27 L10.25 403.45 A17.2678
+								 17.2678 -180 0 0 0 407.67 ZM19.09 414.8 A9.94628 9.94628 0 0 1 21.05 419.53 L28.76 419.53 A17.0192
+								 17.0192 -180 0 0 24.53 409.39 L19.09 414.8 Z" class="st25"/>
+				</g>
+				<g id="shape94-137" v:mID="94" v:groupContext="shape" transform="translate(6.13354,-24.617)">
+					<title>Φύλλο.94</title>
+					<path d="M9.67 414.8 L4.14 409.28 A17.0192 17.0192 -180 0 0 0 419.53 L7.71 419.53 A9.94628 9.94628 0 0 1 9.67
+								 414.8 Z" class="st27"/>
+				</g>
+				<g id="shape95-139" v:mID="95" v:groupContext="shape" transform="translate(24.7276,-22.7936)">
+					<title>Φύλλο.95</title>
+					<path d="M12.96 413.39 A1.24328 1.24328 -180 0 0 11.38 412.7 L0 417.29 L0.88 419.53 L12.27 415.02 A1.21566 1.21566
+								 -180 0 0 12.96 413.39 Z" class="st29"/>
+				</g>
+				<g id="shape96-141" v:mID="96" v:groupContext="shape" transform="translate(20.1688,-20.086)">
+					<title>Φύλλο.96</title>
+					<ellipse cx="3.31543" cy="416.212" rx="3.31543" ry="3.31543" class="st30"/>
+				</g>
+			</g>
+			<g id="shape88-145" v:mID="88" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="24.3948" cy="425.689" width="64.31" height="10.6576"/>
+				<text x="10.32" y="422.09" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Azure <tspan
+							x="4.31" dy="1.2em" class="st7">Monitor</tspan></text>			</g>
+		</g>
+		<g id="shape97-148" v:mID="97" v:groupContext="shape" v:layerMember="0" transform="translate(95.0009,-281.346)">
+			<title>Δυναμική γραμμή σύνδεσης</title>
+			<path d="M0 426.52 L8.7 426.52 L8.7 426.71 L20.45 426.71" class="st31"/>
+		</g>
+		<g id="shape98-154" v:mID="98" v:groupContext="shape" v:layerMember="0" transform="translate(171.349,-267.078)">
+			<title>Δυναμική γραμμή σύνδεσης.98</title>
+			<path d="M0 412.44 L135.76 412.44" class="st31"/>
+		</g>
+		<g id="shape99-159" v:mID="99" v:groupContext="shape" v:layerMember="0" transform="translate(363.424,-269.427)">
+			<title>Δυναμική γραμμή σύνδεσης.99</title>
+			<path d="M0 412.44 L53.01 412.44" class="st31"/>
+		</g>
+		<g id="shape100-164" v:mID="100" v:groupContext="shape" v:layerMember="0" transform="translate(470.746,-283.413)">
+			<title>Δυναμική γραμμή σύνδεσης.100</title>
+			<path d="M7.62 426.43 L7.98 426.43 L10.63 426.43 L10.63 426.8 L34.93 426.8" class="st33"/>
+		</g>
+		<g id="shape101-172" v:mID="101" v:groupContext="shape" v:layerMember="0" transform="translate(451.189,-253.255)">
+			<title>Δυναμική γραμμή σύνδεσης.101</title>
+			<path d="M-6.89 419.53 L-6.89 430.16 L-7.28 430.16 L-7.28 477.45" class="st31"/>
+		</g>
+		<g id="shape102-177" v:mID="102" v:groupContext="shape" v:layerMember="0" transform="translate(436.99,-138.101)">
+			<title>Δυναμική γραμμή σύνδεσης.102</title>
+			<path d="M6.37 419.53 L6.37 430.06 L7.8 430.06 L7.8 454.96" class="st31"/>
+		</g>
+		<g id="shape103-182" v:mID="103" v:groupContext="shape" v:layerMember="0" transform="translate(352.021,-244.864)">
+			<title>Δυναμική γραμμή σύνδεσης.103</title>
+			<path d="M6.72 419.53 L7.36 477.83" class="st31"/>
+		</g>
+		<g id="shape104-187" v:mID="104" v:groupContext="shape" v:layerMember="0" transform="translate(315.693,-143.15)">
+			<title>Δυναμική γραμμή σύνδεσης.104</title>
+			<path d="M0 412.44 L-135.1 412.44" class="st31"/>
+		</g>
+		<g id="shape105-192" v:mID="105" v:groupContext="shape" v:layerMember="0" transform="translate(120.472,-189.882)">
+			<title>Δυναμική γραμμή σύνδεσης.105</title>
+			<path d="M7.09 419.53 L7.09 354.09" class="st31"/>
+		</g>
+		<g id="group119-197" transform="translate(413.468,-334.876)" v:mID="119" v:groupContext="group">
+			<title>Storage Accounts</title>
+			<desc>Storage Account</desc>
+			<g id="group120-198" v:mID="120" v:groupContext="group">
+				<title>Φύλλο.120</title>
+				<g id="shape121-199" v:mID="121" v:groupContext="shape">
+					<title>Φύλλο.121</title>
+					<path d="M0 383.63 L60.72 383.63 L60.72 417.49 A2.03576 2.03576 0 0 1 58.68 419.53 L2.04 419.53 A2.03576 2.03576
+								 0 0 1 0 417.49 L0 383.63 Z" class="st34"/>
+				</g>
+				<g id="shape122-203" v:mID="122" v:groupContext="shape" transform="translate(0,-35.8937)">
+					<title>Φύλλο.122</title>
+					<path d="M2.04 406.6 L58.68 406.6 A2.03576 2.03576 0 0 1 60.72 408.63 L60.72 419.53 L0 419.53 L0 408.6 A2.03576
+								 2.03576 0 0 1 2.04 406.6 Z" class="st35"/>
+				</g>
+				<g id="shape123-205" v:mID="123" v:groupContext="shape" transform="translate(7.3216,-25.0363)">
+					<title>Φύλλο.123</title>
+					<path d="M0.93 412.6 L45.11 412.6 a0.964309 0.964309 0 0 1 0.928593 0.964309 L46.04 418.56 a0.964309 0.964309
+								 0 0 1 -0.928593 0.964309 L0.93 419.53 a0.964309 0.964309 0 0 1 -0.928593 -0.964309 L0 413.56 a0.964309
+								 0.964309 0 0 1 0.928593 -0.964309 Z" class="st11"/>
+				</g>
+				<g id="shape124-207" v:mID="124" v:groupContext="shape" transform="translate(7.35732,-15.0361)">
+					<title>Φύλλο.124</title>
+					<path d="M0.93 412.56 L45.11 412.56 a0.964309 0.964309 0 0 1 0.928593 0.964309 L46.04 418.56 a0.964309 0.964309
+								 0 0 1 -0.928593 0.964309 L0.93 419.53 a0.964309 0.964309 0 0 1 -0.928593 -0.964309 L0 413.71 a0.964309
+								 0.964309 0 0 1 0.928593 -1.14288 Z" class="st35"/>
+				</g>
+				<g id="shape125-209" v:mID="125" v:groupContext="shape" transform="translate(7.35732,-4.9644)">
+					<title>Φύλλο.125</title>
+					<path d="M0.93 412.56 L45.11 412.56 a0.964309 0.964309 0 0 1 0.928593 0.964309 L46.04 418.56 a0.964309 0.964309
+								 0 0 1 -0.928593 0.964309 L0.93 419.53 a0.964309 0.964309 0 0 1 -0.928593 -0.964309 L0 413.53 a0.964309
+								 0.964309 0 0 1 0.928593 -0.964309 Z" class="st36"/>
+				</g>
+			</g>
+			<g id="shape119-211" v:mID="119" v:groupContext="groupContent">
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="31.9855" cy="426.797" width="106.72" height="10.9448"/>
+				<text x="-8.1" y="430.4" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Storage Account</text>			</g>
+		</g>
+		<g id="shape139-213" v:mID="139" v:groupContext="shape" v:layerMember="0" transform="translate(451.278,-299.589)">
+			<title>Δυναμική γραμμή σύνδεσης.139</title>
+			<path d="M-6.98 411.91 L-6.98 411.55 L-6.98 408.9 L-7.19 408.9 L-7.19 392.22" class="st33"/>
+		</g>
+	</g>
+</svg>

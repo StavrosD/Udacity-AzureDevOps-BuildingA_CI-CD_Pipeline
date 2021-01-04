@@ -3,10 +3,10 @@ from locust import  task, between
 from locust.contrib.fasthttp import FastHttpUser
 
 class MyUser(FastHttpUser):
-  
+  host = r'https://devopscidiproject.azurewebsites.net:443/predict'
+
   @task
   def prediction(self):
-    host = r'https://devopscidiproject.azurewebsites.net:443/predict'
     post_data = {
         "CHAS":{
             "0":0
@@ -30,7 +30,8 @@ class MyUser(FastHttpUser):
     
     post_headers = {r'Content-Type': r'application/json'}
 
-    response = self.client.request(method='POST',path=host,json=post_data )
+
+    response = self.client.request(method='POST',path=self.host,json=post_data )
 
 
 
