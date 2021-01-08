@@ -109,6 +109,8 @@ In your shell you should see the file where the key is stored. Display the key a
 cat your-keyfile-path
 ```
 
+You may setup SSH access for one project or for all projects. 
+I will describe the process of setting up access to all projects. If you want to give SSH acces to a specific project, follow the process in the YouTube video (link on the bottom of this readme).
 Now, use [GitHub Settings -> SSH and PGP keys](https://github.com/settings/keys) and click "New SSH key"
 
 Enter a title and paste your sha key in the "Key" field.
@@ -121,12 +123,13 @@ First, go to your github repository to get the git link. Click the "Clone" butto
 ![Copy git address](Screenshots/GitHub_clone.png)
 
 In the Azure Cloud Shell, go to the folder where you want to clone the repository and clone it.
+
 ```
 cd clouddrive
 git clone paste_your_link.git
 ```
 
-Only the first time you need to clone the repository. Each time you need to update it manually you should use the ``` git pull ``` command.
+Only the first time you need to clone the repository. If you need to update it manually you should use the ``` git pull ``` command.
 
 ##### 4.3 Run the ML app
 
@@ -180,10 +183,10 @@ Now the pipeline is ready. Each time you update your repository, the pipeline wi
 If you click on a pipeline you will see the commit history and an indicator if it was built and deployed sucessfully.
 ![Pipeline build and deploy history](Screenshots/PipelineHistory.png)
 
-Then you can click on a commit and you will see the build and deploy summary of this commit:
+Then you can click on a commit and the build and deploy summary of this commit will be displayed:
 ![Pipeline commit summary](Screenshots/PipelineRunSummary.png)
 
-You can also clicl on thr build stage or deploy app to get detailedstatus. It is useful for debugging in order to pinpoint a problem.
+You can also click on the build stage or deploy app to get detaile dstatus. It is useful for debugging in order to pinpoint a problem.
 ![Passing Azure pipelines testing](./Screenshots/AzurePassTests.png)
 
 
@@ -225,8 +228,4 @@ Additional features should be taken into account in a commercial application,suc
 * Use a faster VM for the web app
 
 ## Demo 
-
-<TODO: Add link Screencast on YouTube>
-
-
-
+[![Video walkthrough](http://img.youtube.com/vi/kD3T4xWTXlQ/0.jpg)](https://youtu.be/kD3T4xWTXlQ "Video walkthrough")
